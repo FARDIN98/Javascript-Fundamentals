@@ -1,3 +1,7 @@
+var num = Number.isNaN(0/0)
+console.log(num)
+// Output: true
+
 console.log(Math.E)
 // Output : 2.718281828459045
 console.log(Math.PI)
