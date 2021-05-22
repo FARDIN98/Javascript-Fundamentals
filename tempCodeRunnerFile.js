@@ -1,2 +1,5 @@
-console.log(Boolean(0))
-// Output : false
+// var i = 0
+// while(i < 10){
+//     console.log(fardin ahmed)
+//     i++
+// }
