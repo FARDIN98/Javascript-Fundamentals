@@ -1,10 +1,10 @@
-var n = 10
-var str = ''
+ var n = 10
+ var str = ''
 
-// if(n % 2 === 0){
-//     str = 'Even'
-// }else{
-//     str = 'Odd'
+//  if(n % 2 === 0){
+//      str = 'Even'
+//  }else{
+//      str = 'Odd'
 // }
 
 // console.log(str);

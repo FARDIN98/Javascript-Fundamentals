@@ -1,19 +1,19 @@
-var name = ''
+var userName = ''
 
-if(name.length === 0){
+if(userName.length === 0){
     fullName = "Fardin Ahmed"
 }else{
-    fullName = name
+    fullName = userName
 }
 console.log(fullName);
 // Output: Fardin Ahmed
 
-var fullName = name || 'Fardin'
+var fullName = userName || 'Fardin'
 console.log(fullName);
 // Output: Fardin
 
 var name = 'Ahmed'
-var fullName = name || 'Fardin'
+var fullName = userName || 'Fardin'
 console.log(fullName);
 // Output: Ahmed
 
