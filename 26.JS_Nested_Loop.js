@@ -52,17 +52,17 @@
 // * * * * *
 
 // i means line number. How much line we print
-for(var i = 1; i <= 5; i++){
-    var space = " "
-    var star = " "
-    // j means space.
-    for(var j = 1; j <= (5-i)* 2; j++){
-        space += " "
-    }
-    for(var k = 1; k <= i; k++){
-        star += "* "
-    }
-    process.stdout.write(space)
-    // process.stdout.write(star)
-    console.log(star)
-}
+// for(var i = 1; i <= 5; i++){
+//     var space = " "
+//     var star = " "
+//     // j means space.
+//     for(var j = 1; j <= (5-i)* 2; j++){
+//         space += " "
+//     }
+//     for(var k = 1; k <= i; k++){
+//         star += "* "
+//     }
+//     process.stdout.write(space)
+//     // process.stdout.write(star)
+//     console.log(star)
+// }
